@@ -7,6 +7,6 @@
 
 📚 I enjoy exploring new technologies, contributing to open-source projects, and optimizing software solutions for better performance and scalability.
 
-✏️ Currently, I’m deep-diving into Azure, Blazor, and AI-driven applications in .NET.
+✏️ Currently, I’m deep-diving into .Net Core Latest Releases, Azure, and AI-driven applications in .NET.
 
 🔗 Let’s connect! [LinkedIn](https://www.linkedin.com/in/siddarthagreddy/) | ✉️ siddarthagreddy@gmail.com
